@@ -1,0 +1,12 @@
+{
+  "name": "ai-img-101",
+  "version": "1.0.0",
+  "description": "Using MERN stack and OpenAI apis to generate images.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": []
+}

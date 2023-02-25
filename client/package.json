@@ -1,5 +1,6 @@
 {
-  "name": "client",
+  "name": "ai-img-101-client",
+  "description": "Client - Using MERN stack and OpenAI apis to generate images.",
   "private": true,
   "version": "0.0.0",
   "type": "module",

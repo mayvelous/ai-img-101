@@ -20,7 +20,6 @@ const CreatePost = () => {
   };
 
   const handleChange = (e) => {
-    console.log('Changed!');
     setForm({ ...form, [e.target.name]: e.target.value });
   };
 

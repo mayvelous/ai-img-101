@@ -3,7 +3,7 @@
 Image gallery site using MERN stack, OpenAI Apis (DALL-E model), Cloudinary and TailwindCSS.
 Following this [tute](https://www.youtube.com/watch?v=EyIvuigqDoA).
 
-![finished app screenshots](sampleapp.png 'Finished app screenshots')
+[![finished app screenshots](sampleapp.png 'Finished app screenshots')](https://ai-img-101.onrender.com/)
 
 # Setup
 
@@ -48,3 +48,12 @@ npm start
 ### Note
 
 To use `.env` vars in `Client Vite` app, prefix variables with `VITE_`, read more [here](https://vitejs.dev/guide/env-and-mode.html#env-files) and call it as `import.meta.env.VITE_SOME_VAR`
+
+## Deploy
+
+Both client and server are deployed on Render.com free account.
+
+- Deploy `server` as `Web Service`.
+- Deploy `client` as `Static Site`. Follow deploy Vite as Static Site on Render instruction [here](https://vitejs.dev/guide/static-deploy.html#render)
+- Make sure to add respective client and server `environment variables` before hitting create/deploy button.
+- Test app: [https://ai-img-101.onrender.com](https://ai-img-101.onrender.com/)

@@ -25,4 +25,12 @@ npm run dev
 ```
 npm init -y
 npm install cloudinary cors dotenv express mongoose nodemon openai
+
+npm start
 ```
+
+## .env
+
+- Add .env file to server root
+- Create mongodb database [here](https://www.mongodb.com/atlas/database) and add the connection url variable `MONGODB_URL`
+- Grab OpenAi api key from [here](https://beta.openai.com/account/api-keys) and add as `OPENAI_API_KEY`

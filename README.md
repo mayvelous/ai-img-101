@@ -3,6 +3,8 @@
 Image gallery site using MERN stack, OpenAI Apis (DALL-E model), Cloudinary and TailwindCSS.
 Following this [tute](https://www.youtube.com/watch?v=EyIvuigqDoA).
 
+![finished app screenshots](sampleapp.png 'Finished app screenshots')
+
 # Setup
 
 ## Client
